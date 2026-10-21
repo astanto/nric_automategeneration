@@ -2,6 +2,10 @@
 
 A Robot Framework automation script that uses SeleniumLibrary to interact with the NRIC generator webpage and save generated values to a text file.
 
+## Desclaimer 
+This only for test purpose only, for generate dummy data not for real life usage. It's a solution when a test application required a certain formatted text 
+it based and very dependant to this specific site, that owned by other party https://samliew.com/nric-generator
+
 ## Overview
 
 The `nric.robot` test suite:
